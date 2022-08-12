@@ -26,7 +26,7 @@ After installation is complete, run the following code: ‘node index’ in the 
 
 I have also included a video with a demo of the project, and I also provided a screenshot.
 
-![Demo-Download](https://github.com/rramosx11/TP-Generator/blob/main/assets/TP-Generator%20SS.png)
+![Demo-Download](https://github.com/rramosx11/TP-Generator/blob/main/assets/Team%20Profile%20Generator.mp4)
 
 [Demo-YouTube-Link](https://youtu.be/TVysZT6kUx8)
 

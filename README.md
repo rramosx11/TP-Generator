@@ -17,7 +17,7 @@ This application was created to generate a team profile based on the user input 
 
 Please download the files from the link below. You can copy these files to a directory in your local computer, or you can also clone it to directory. Open the file in VS Code. You want to make sure that Jest and Inqurier are installed in your directory.
 
-Jest - npm i jest
+Jest - npm i jest<br>
 Inquirer - npm i inquirer@8.2.4
 
 [File-Download-Link](https://github.com/rramosx11/TP-Generator)<br>
